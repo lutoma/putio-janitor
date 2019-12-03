@@ -1,0 +1,12 @@
+oauth_token: 1234
+delete_after_days: 14
+
+allowed_root_files:
+  - _Incoming
+  - chill.institute
+  - items shared with you
+  - test
+
+public_directories:
+  - _Incoming
+  - chill.institute
